@@ -37,6 +37,8 @@ class ViewController: UIViewController {
         
         messageSent.setTitle("Mail Sent", forState: UIControlState.Normal) //cambia el texto que hay en el boton, el primer parametro recibe un string y el segundo indica el tipo de texto que se mostrara (subrayado, normal etc.)
         
+        // Este texto es una prueba para ver que se apliquen cambios en github
+        
         
         
     }
